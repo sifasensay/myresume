@@ -268,7 +268,7 @@
   }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 992px) {
   body {
     width: 100vw;
     max-width: none;
