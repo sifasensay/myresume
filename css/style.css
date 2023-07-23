@@ -101,7 +101,7 @@
     padding-left: 3rem;
     padding-right: 3rem;
     padding-top: 10%;
-    padding-bottom: 5rem;
+    /*padding-bottom: 5rem;*/
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -239,6 +239,13 @@
   .fa-award {
     color: #146C94;
     margin-right:0.3em;
+  }
+
+  #footer {
+    width: 100%;
+    bottom: 0px;
+    margin-top:5%;
+    text-align: center;
   }
 
   
